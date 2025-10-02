@@ -1,0 +1,2 @@
+source /Users/kennedyowusu/Codes/iot/multi_pattern_blinker/build/bootloader/gdbinit/symbols
+source /Users/kennedyowusu/Codes/iot/multi_pattern_blinker/build/bootloader/gdbinit/connect
